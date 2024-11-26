@@ -4,7 +4,8 @@
     <title>Categories on Ching-Chia Renn</title>
     <link>https://renncc.github.io/categories/</link>
     <description>Recent content in Categories on Ching-Chia Renn</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://renncc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <atom:link href="https://renncc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
